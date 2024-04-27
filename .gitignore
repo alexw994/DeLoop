@@ -1,0 +1,7 @@
+venv
+demo/2th_step_use_deloop_in_prod_env/alexwww94
+src/deloop/data
+test/.pytest_cache
+test/false
+test/htmlcov
+test/.coverage
