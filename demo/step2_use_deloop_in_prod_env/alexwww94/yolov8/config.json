@@ -1,0 +1,8 @@
+{
+  "_name_or_path": "alexwww94/yolov8",
+  "model_type": "yolov8",
+  "auto_map": {
+    "AutoConfig": "configuration_yolov8.YOLOv8Config",
+    "AutoModelForObjectDetection": "modeling_yolov8.YOLOv8ForObjectDetection"
+  }
+}
